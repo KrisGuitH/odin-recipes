@@ -1,6 +1,6 @@
-Odin recipes
+# Odin recipes
 
-build a basic html recipe website 
+ a basic html recipe website 
 
 <!-- watch live demo link here -->
 
