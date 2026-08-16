@@ -1,6 +1,6 @@
 # Odin recipes
 
- A basic html recipe website.
+ A basic HTML recipe website.
 
 <!-- watch live demo link here -->
 
