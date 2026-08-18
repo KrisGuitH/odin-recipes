@@ -1,0 +1,29 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(218, 197, 144);
+}
+
+
+.opvallend {
+    color: goldenrod;
+    background-color: rgb(40, 40, 178);
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font: size 33px;;
+}
+
+ul {
+    color: rgb(40, 40, 178);
+    background-color: goldenrod;
+    text-align: center;
+    display: block;
+    align-self: center;
+    width: 100%;
+    list-style: none;
+    font-size: large;
+}
